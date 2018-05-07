@@ -125,4 +125,5 @@
 			<resource resourceType="PROJECT" workspacePath="/lex"/>
 		</configuration>
 	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
 </cproject>
